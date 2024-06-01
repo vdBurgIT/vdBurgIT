@@ -6,6 +6,3 @@ het Microsoft ecosystem🪟!
 https://vdburg.it
 
 
-### Drop die follow op Twitch
-
-![Twitch Status](https://img.shields.io/twitch/status/vdburgit)
