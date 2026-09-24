@@ -12,6 +12,7 @@ Microsoft nerd 🤓 from the Netherlands. I live in the **Microsoft 365 & Azure*
 
 #### 🚀 Things I'm building
 
+- 🪟 [**Win+Leave**](https://github.com/vdBurgIT/win-plus-leave) — the Win+L you never forget. Pull your YubiKey, walk away, and Windows locks behind you. A deadman switch for the whole fleet, rolled out with Intune, or one line of PowerShell for your own laptop.
 - 📦 [**Microsoft-Community-Scripts**](https://github.com/vdBurgIT/Microsoft-Community-Scripts) — battle-tested PowerShell for M365, Intune, Entra, Exchange & SharePoint admins. One folder per script, each with a README that tells you exactly where it bites.
 - ☁️ [**GoldenMaster**](https://goldenmaster.cloud) — an opinionated, SMB-first blueprint for Intune & Entra: naming conventions, documented policies, and drift monitoring for MSPs.
 - 🔗 [**nerd.ms**](https://nerd.ms) — your link toolbox: fast access to every Microsoft cloud portal from one place.
